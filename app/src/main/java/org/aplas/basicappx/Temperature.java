@@ -1,6 +1,7 @@
 package org.aplas.basicappx;
 
 public class Temperature {
+
     Temperature() {
         this.celcius = 0;
     }
@@ -51,5 +52,4 @@ public class Temperature {
         }
 
     }
-
 }
